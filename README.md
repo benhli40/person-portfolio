@@ -42,7 +42,6 @@ This collaboration lets me focus on what matters most: **building functional, th
 | **DateDock**| A drag-and-drop weekly task scheduler                                       | [Live](#)                  | [Repo](#)                |
 | **Cool Weather** | A minimalist OpenWeather dashboard                                     | [Live](#)                  | [Repo](#)                |
 | **Northstar** | A weekly goal tracking compass designed to keep you on track              | [Live](#)                  | [Repo](#)                |
-|-------------|-----------------------------------------------------------------------------|----------------------------|--------------------------|
 
 _(Replace links with your actual URLs once deployed!)_
 
